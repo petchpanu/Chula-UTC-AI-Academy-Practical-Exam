@@ -16,6 +16,7 @@ The trained model wasn't uploaded because of file sizes are too large.
 
 ## Files
 Notebook -> problem 3.ipynb
+Download Images -> download images.ipynb
 
 
 ## Prerequisites
