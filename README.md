@@ -1,0 +1,1 @@
+# Chula-UTC-AI-Academy-Practical-Exam
